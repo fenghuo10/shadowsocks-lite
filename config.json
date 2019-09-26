@@ -1,7 +1,8 @@
 {
-  "server":"103.29.70.102",
-  "server_port":32206,
+  "url": "ss://YWVzLTI1Ni1jZmI6TnNZY2wzODJLSGZ6QDE3Mi4xMDUuMjIwLjI0OjIxNTgz",
+  "server":"127.0.0.1",
+  "server_port":8088,
   "local_address":"127.0.0.1",
   "local_port":1088,
-  "password":"271ed59da9a79a5b7f1dcc8cd7a0e6b2"
+  "password":"123456789"
 }
